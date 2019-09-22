@@ -2,7 +2,7 @@
 
 This guide is for everyone who want's to contribute to the development of NodeGui.
 
-Please make sure you have read the [User's guides](/) before reading this guide.
+Please make sure you have read the [User's guides](https://docs.nodegui.org/#/) before reading this guide.
 
 - [Setting up the NodeGui Contributor's Environment](development/setting-up.md)
   - [Setting up macOS](development/setting-up.md#macosx)
